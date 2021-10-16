@@ -27,8 +27,12 @@
     display: none;
   }
   
-  .nav {
+  nav {
     display: block;
+  }
+  
+  #home{
+    height: 1200px;
   }
 
   .deskripsi{
